@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Al Mahmud</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">Crafting Seamless Web & Mobile Experiences | Frontend Developer from Bangladesh</h3>
 
 
 # 💻 Tech Stack:
